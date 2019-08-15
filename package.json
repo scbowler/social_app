@@ -1,0 +1,19 @@
+{
+  "name": "social_app",
+  "version": "1.0.0",
+  "description": "My awesome social media app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scbowler/social_app.git"
+  },
+  "author": "Scott Bowler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scbowler/social_app/issues"
+  },
+  "homepage": "https://github.com/scbowler/social_app#readme"
+}
